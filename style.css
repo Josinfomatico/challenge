@@ -1,0 +1,135 @@
+.cuerpo {
+    background: #F3F5FC;
+}
+
+.principal {
+    position: relative;
+    width: 1440px;
+    height: 500;
+    background: #F3F5FC;
+}
+
+.logo {
+    width: 100%;
+    float: left;
+}
+
+#loguito {
+    float: inherit;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+#titulo {
+    margin-left: 30%;
+    color: rgb(68, 87, 112);
+}
+
+.cajaTexto {
+    float: left;
+    margin-top: 6%;
+    width: 100%;
+    height: 2.3%;
+}
+
+#textoEntrada {
+    float: left;
+    margin-left: 16%;
+    width: 80%;
+    height: 150%;
+    font-weight: 500;
+    font-size: 24px;
+    font-size: 32px;
+    border: none;
+    outline: none;
+    background: #F3F5FC;
+    color: #0A3871;
+}
+
+.parteDerecha {
+    margin-left: 100%;
+}
+
+#diamante {
+    position: absolute;
+    width: 336px;
+    height: 304px;
+    left: 1470px;
+    top: 100px;
+}
+
+#rectangulo {
+    width: 400px;
+    height: 900px;
+    left: 1500px;
+    top: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+    border-radius: 32px;
+}
+
+#titulo2 {
+    width: 15%;
+    position: absolute;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 100%;
+    top: 400px;
+    margin-left: 7.5%;
+    text-align: center;
+    color: #343A40;
+}
+
+#textoSalida {
+    float: left;
+    position: absolute;
+    margin-left: 3%;
+    width: 22%;
+    height: 25%;
+    top: 480px;
+    border: none;
+    outline: none;
+    text-align: center;
+    font-size: 150%;
+    color: #9da3aa;
+}
+
+#copiar {
+    position: absolute;
+    padding: 20px;
+    width: 20%;
+    height: 8%;
+    border-radius: 24px;
+    margin-left: 4%;
+    top: 750px;
+    font-size: 20px;
+    color: #0A3871;
+    background: #F3F5FC;
+    display: none;
+}
+
+#encriptar {
+    position: absolute;
+    padding: 20px;
+    width: 30%;
+    height: 8%;
+    border-radius: 24px;
+    margin-left: 15%;
+    top: 750px;
+    font-size: 20px;
+    color: white;
+    background: #0A3871;
+}
+
+#desencriptar {
+    position: absolute;
+    padding: 20px;
+    width: 30%;
+    height: 8%;
+    border-radius: 24px;
+    margin-left: 50%;
+    top: 750px;
+    font-size: 20px;
+    color: #0A3871;
+    background: #F3F5FC;
+}
