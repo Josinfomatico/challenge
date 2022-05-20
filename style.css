@@ -133,3 +133,24 @@
     color: #0A3871;
     background: #F3F5FC;
 }
+
+#tipoLetra {
+    position: absolute;
+    margin: -200px 0 0 260px;
+}
+
+#simbolo {
+    position: absolute;
+    margin: -203px 0 0 240px;
+}
+
+.redes {
+    position: absolute;
+    margin: -10px 0 0 600px;
+}
+
+#copyright {
+    font-size: 15px;
+    margin-top: -3%;
+    margin-left: 40%;
+}
